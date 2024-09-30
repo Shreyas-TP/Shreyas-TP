@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas T P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="CODING" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-tp&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-tp" /> </p>
