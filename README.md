@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreyas_t_p" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas_t_p?logo=twitter&style=for-the-badge" alt="shreyas_t_p" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Data Analytics**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **shreyastp8800@gmail.com**
 
